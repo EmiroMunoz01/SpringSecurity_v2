@@ -11,9 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 
 public class LoginRequest {
-
     // esta pedira las credenciales
-
     String username;
     String passowrd;
 }
